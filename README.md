@@ -52,3 +52,9 @@ This project lets you **create grids**, **add walls**, **apply terrain weights**
 5. **Reset** to start fresh.
 
 ---
+
+## Screenshots
+
+| Initial state                  | Greedy Best First Search Visualization |
+| ------------------------------ | -------------------------------------- |
+| ![Initial](./images/start.png) | ![Visualization](./images/end.png)     |
